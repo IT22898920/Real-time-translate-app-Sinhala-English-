@@ -1,0 +1,5 @@
+SpeechRecognition==3.10.0
+googletrans==4.0.0rc1
+pyaudio==0.2.13
+pydub==0.25.1
+tkinter
